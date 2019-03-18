@@ -14,7 +14,7 @@ body{
 }
 
 #submit {
-    background: firebrick;
+    background: palevioletred;
 }
 
 #jumbo_h2 {
@@ -28,5 +28,5 @@ body{
 }
 
 .panel-title {
-    color: firebrick;
+    color: black;
 }

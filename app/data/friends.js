@@ -4,15 +4,15 @@ var friends = [ {
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
     "name" : "Alex",
-    "photo" : "http://science-all.com/images/wallpapers/girl-pictures/girl-pictures-23.jpg",
+    "photo" : "https://i.ytimg.com/vi/-Sc5LPK9bpM/maxresdefault.jpg",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
-    "name" : "Sri",
-    "photo" : "http://images.zap2it.com/assets/p9257057_n160758_cc_v4_aa/guys-with-kids.jpg",
+    "name" : "Patrick Kim",
+    "photo" : "https://buzznigeria.com/wp-content/uploads/2015/06/Collins-Pennie-Bio-640x361.jpg",
     "scores" : [5,5,5,5,5,5,5,5,5,5]
 }, {
-    "name" : "Patrick",
-    "photo" : "https://goo.gl/Y7u8EF",
+    "name" : "Sri",
+    "photo" : "https://c.tribune.com.pk/2018/10/1830234-emmadirfani-1540029568-101-640x480.png",
     "scores" : [5,2,4,3,3,2,1,3,3,4]
 }, {
     "name" : "Tom",
